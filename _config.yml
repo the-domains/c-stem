@@ -1,0 +1,28 @@
+name: C-STEM
+favicon: null
+layout_spectrum: 0.33973948494531214
+typography_spectrum: 0.10671392665244639
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9099360019899905
+  lightness: 0.13254360086284578
+  saturation: 0.11769693647511303
+  rhythmicContrast: 0.605332953389734
+purpose: []
